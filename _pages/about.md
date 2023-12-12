@@ -99,12 +99,6 @@ Email: jianpingzhou0927@gmail.com
 
 <div>
 
-<a href="https://clustrmaps.com/site/1bxrr" title="Visit tracker"
-
-> <img class='visit-map'
-
-    src="//www.clustrmaps.com/map_v2.png?d=0M8kPkKxBLYWYMx2sN62-gal633opUGy56vm6VlWAz8&cl=ffffff"
-
-/></a>
+<a href='https://clustrmaps.com/site/1bxrr'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=600&t=n&d=0M8kPkKxBLYWYMx2sN62-gal633opUGy56vm6VlWAz8&co=2d78ad&ct=ffffff'/></a>
 
 </div>
