@@ -2,32 +2,33 @@
 layout: compress
 ---
 
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en" class="no-js">
   <head>
-    {% include head.html %}
-    {% include head/custom.html %}
+    <meta
+      name="google-site-verification"
+      content="47Arxw_1b4LoUYoxsQoVs9MAtZ7TthPQbci_lJ1zuJQ"
+    />
+    {% include head.html %} {% include head/custom.html %}
   </head>
 
   <body>
-
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+    {% include browser-upgrade.html %} {% include masthead.html %}
 
     <div id="main" role="main">
       {% include sidebar.html %}
-    
+
       <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+        {% if page.title %}<meta
+          itemprop="headline"
+          content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}"
+        />{% endif %}
         <div class="page__inner-wrap">
-          <section class="page__content" itemprop="text">
-            {{ content }}
-          </section>
+          <section class="page__content" itemprop="text">{{ content }}</section>
         </div>
       </article>
     </div>
 
     {% include scripts.html %}
-
   </body>
 </html>
