@@ -73,7 +73,7 @@ I am looking for research partners. If you are interested, please don't hesitate
 
 # 🎖 Honors and Awards
 
-- _2020.12_,_2021.12_ National Scholarship in China (top 1%)
+- _2020.12_, _2021.12_ National Scholarship in China (top 1%)
 - _2021.12_ President's Award of Shandong University (top 1%)
 - _2021.12_ Outstanding Student of Shandong Province (top 2%)
 - _2020.12_ Outstanding Student Leader of Shandong Province (top 2%)
