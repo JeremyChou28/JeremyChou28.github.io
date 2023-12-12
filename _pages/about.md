@@ -24,7 +24,7 @@ I received my bachelor's degree from Shandong University in 2022, surpervised by
 My research interests include **data mining**, **knowledge graph** and **AI for science**.
 I’m currently devoted to research on **time series analysis**, machine learning problems with **missing data**. What's more, I'm learning how to train a time series or spatio-temporal foundation model.
 
-I am looking for research partners. If you are interested, please contact me jianpingzhou0927@gmail.com.
+I am looking for research partners. If you are interested, please don't hesitate to contact me.
 
 <!-- My research interest includes neural machine translation and computer vision.  -->
 
@@ -73,7 +73,7 @@ I am looking for research partners. If you are interested, please contact me jia
 
 # 🎖 Honors and Awards
 
-- _2020.12_ \& _2021.12_ National Scholarship in China (top 1%)
+- _2020.12_,_2021.12_ National Scholarship in China (top 1%)
 - _2021.12_ President's Award of Shandong University (top 1%)
 - _2021.12_ Outstanding Student of Shandong Province (top 2%)
 - _2020.12_ Outstanding Student Leader of Shandong Province (top 2%)
