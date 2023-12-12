@@ -90,10 +90,11 @@ I am looking for research partners. If you are interested, please don't hesitate
 
 # 📫 Contact
 
-Room 441, Building 1, No. 800 Dongchuan Road, Minhang District, Shanghai, China, 200240
+Location: Room 441, Building 1, No. 800 Dongchuan Road, Minhang District, Shanghai, China, 200240
+
 Email: jianpingzhou0927@gmail.com
 
-<div>
+<div class='visit-map'>
 
 <a href="https://clustrmaps.com/site/1bxrr" title="Visit tracker"
 
