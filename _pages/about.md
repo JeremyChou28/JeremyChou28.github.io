@@ -53,11 +53,14 @@ I am looking for research partners. If you are interested, please contact me jia
 
 [Geoviz: Spatio-temporal knowledge graph visualizations platform](https://mdkg.acemap.cn/#/index)
 
+- GeoViz is a one-stop Spatio-temporal knowledge graph (STKG) visualization platform. We developed three customized visualization views for STKG: **knowledge tree**, **knowledge network** and **knowledge map**. This project is supported by the [National key research and development plan](http://www.igsnrr.cas.cn/news/zhxw/202303/t20230303_6688038.html) and [Deep-time Digital Earth (DDE) International Big Science Program](https://deep-time.org/).
+
+</div>
+</div>
+
 <!-- **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun -->
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-
-- GeoViz is a one-stop Spatio-temporal knowledge graph (STKG) visualization platform. We developed three customized visualization views for STKG: **knowledge tree**, **knowledge network** and **knowledge map**. This project is supported by the [National key research and development plan](http://www.igsnrr.cas.cn/news/zhxw/202303/t20230303_6688038.html) and [Deep-time Digital Earth (DDE) International Big Science Program](https://deep-time.org/).
 
 # 💻 Internships
 
