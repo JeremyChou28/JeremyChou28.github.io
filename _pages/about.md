@@ -19,7 +19,7 @@ redirect_from:
 
 I’m currently a second year Ph.D. candidate at [IIoT Research Center](https://iiot.sjtu.edu.cn/#/), Shanghai Jiao Tong University, where I have the honor to be supervised by [Prof. Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/) and [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/).
 
-I received my bachelor's degree from Shandong University in 2022, surpervised by [Prof. Hongchao Zhou](https://faculty.sdu.edu.cn/zhouhongchao/zh_CN/) and [Prof. Xiong Hailiang](https://faculty.sdu.edu.cn/xionghailiang).
+I received my bachelor's degree from Shandong University in 2022, surpervised by [Prof. Hongchao Zhou](https://faculty.sdu.edu.cn/zhouhongchao/zh_CN/) and [Prof. Hailiang Xiong](https://faculty.sdu.edu.cn/xionghailiang).
 
 My research interests include **data mining**, **knowledge graph** and **AI for science**.
 I’m currently devoted to research on **time series analysis**, machine learning problems with **missing data**. What's more, I'm learning how to train a time series or spatio-temporal foundation model.
