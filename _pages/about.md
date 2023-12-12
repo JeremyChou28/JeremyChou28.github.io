@@ -74,11 +74,11 @@ I am looking for research partners. If you are interested, please don't hesitate
 # 🎖 Honors and Awards
 
 - _2020.12_, _2021.12_ National Scholarship in China (top 1%)
-- _2021.12_ President's Award of Shandong University (top 1%)[news](https://mp.weixin.qq.com/s/kg9RxqXPaxizK5F9qemySg)
+- _2021.12_ President's Award of Shandong University (top 1%) [\[news\]](https://mp.weixin.qq.com/s/kg9RxqXPaxizK5F9qemySg)
 - _2021.12_ Outstanding Student of Shandong Province (top 2%)
 - _2020.12_ Outstanding Student Leader of Shandong Province (top 2%)
 - _2019.10_ First Prize of the 11th College Student Mathematics Competition
-- _2020.12_ First Prize of the 14th International Contest of innovAtionN [news](https://www.view.sdu.edu.cn/info/1003/144886.htm)
+- _2020.12_ First Prize of the 14th International Contest of innovAtionN [\[news\]](https://www.view.sdu.edu.cn/info/1003/144886.htm)
 
 <!-- # 📖 Educations
 
