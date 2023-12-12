@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m currently a second year Ph.D. candidate at IIoT, Shanghai Jiao Tong University, where I have the honor to be supervised by [Prof. Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/) and [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/).
+I’m currently a second year Ph.D. candidate at [IIoT Research Center](https://iiot.sjtu.edu.cn/#/), Shanghai Jiao Tong University, where I have the honor to be supervised by [Prof. Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/) and [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/).
 
 I received my bachelor's degree from Shandong University in 2022, surpervised by [Prof. Hongchao Zhou](https://faculty.sdu.edu.cn/zhouhongchao/zh_CN/) and [Prof. Xiong Hailiang](https://faculty.sdu.edu.cn/xionghailiang).
 
@@ -77,8 +77,11 @@ I am looking for research partners. If you are interested, please don't hesitate
 - _2021.12_ President's Award of Shandong University (top 1%)
 - _2021.12_ Outstanding Student of Shandong Province (top 2%)
 - _2020.12_ Outstanding Student Leader of Shandong Province (top 2%)
+- _2019.10_ First Prize of the 11th College Student Mathematics Competition
+- _2020.12_ First Prize of the 14th International Contest of innovAtionN
 
 <!-- # 📖 Educations
+
 
 - _2019.06 - 2022.04 (now)_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - _2015.09 - 2019.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
