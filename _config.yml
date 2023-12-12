@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title: "Jianping Zhou: Academic Homepage"
-description: "This is the Jianping Zhou's academic homepage."
+title: "Jianping Zhou (周健平)"
+description: "Ph.D. candidate in Shanghai Jiao Tong University.."
 repository: "JeremyChou28/JeremyChou28.github.io"
 google_scholar_stats_use_cdn: true
 
@@ -23,7 +23,7 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 author:
   name: "Jianping Zhou (周健平)"
   avatar: "images/android-chrome-512x512.png"
-  bio: "Shanghai Jiao Tong University"
+  # bio: "Shanghai Jiao Tong University"
   location: "Shanghai, China"
   employer:
   pubmed:
@@ -43,7 +43,7 @@ author:
   instagram:
   impactstory: # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin: https://www.linkedin.com/in/jianping-zhou-098b31210/
+  linkedin: jianping-zhou-098b31210/
   dblp: # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid: https://orcid.org/my-orcid?orcid=0009-0000-7161-2029
   pinterest:
