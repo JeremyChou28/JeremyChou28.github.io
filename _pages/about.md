@@ -65,7 +65,7 @@ I am looking for research partners. If you are interested, please contact me jia
 # 💻 Internships
 
 - _2020.06 - 2020.09_, Hardware Engineer Intern, [Xilinx](https://xupsh.github.io/camp/), China.
-- _2021.09 - 2020.12_, MindSpore Excellent Developer, [Huawei MindSpore](https://www.mindspore.cn/), China.
+- _2021.09 - 2021.12_, MindSpore Excellent Developer, [Huawei MindSpore](https://www.mindspore.cn/), China.
 
 # 📖 Teaching
 
@@ -73,7 +73,8 @@ I am looking for research partners. If you are interested, please contact me jia
 
 # 🎖 Honors and Awards
 
-- _2020.12_ & _2021.12_ National Scholarship in China (top 1%)
+- _2020.12_ \& _2021.12_ National Scholarship in China (top 1%)
+- _2021.12_ President's Award of Shandong University (top 1%)
 - _2021.12_ Outstanding Student of Shandong Province (top 2%)
 - _2020.12_ Outstanding Student Leader of Shandong Province (top 2%)
 
