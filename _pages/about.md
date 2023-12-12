@@ -44,11 +44,11 @@ I am looking for research partners. If you are interested, please contact me jia
 - <span class='paper-prebadge'>arXiv 2023</span> **Adapting Prompt for Few-shot Table-to-Text Generation**<br>
   Zhixin Guo, Minyxuan Yan, Jiexing Qi, _<u><b>Jianping Zhou</b></u>, Ziwei He, Zhouhan Lin, Guanjie Zheng, Xinbing Wang_<br>
   _arXiv (preprint)_, 2023<br>
-  <span class='paper-asset'><a href="https://arxiv.org/abs/2308.15002">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2302.12468.pdf.pdf">PDF</a></span>
+  <span class='paper-asset'><a href="https://arxiv.org/abs/2302.12468">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2302.12468.pdf">PDF</a></span>
 
 # 🚀 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">beta</div><img src='images/geoviz.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">beta</div><img src='images/geoviz.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Geoviz: Spatio-temporal knowledge graph visualizations platform](https://mdkg.acemap.cn/#/index)
