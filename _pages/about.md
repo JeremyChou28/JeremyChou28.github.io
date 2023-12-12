@@ -19,12 +19,12 @@ redirect_from:
 
 I’m currently a second year Ph.D. candidate at IIoT, Shanghai Jiao Tong University, where I have the honor to be supervised by [Prof. Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/) and [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/).
 
-I received my bachelor's degree from Shandong University in 2022, surpervised by [Prof. Hongchao Zhou](https://faculty.sdu.edu.cn/zhouhongchao/zh_CN/) and [Prof. Xiong Hailiang](https://faculty.sdu.edu.cn/xionghailiang)
+I received my bachelor's degree from Shandong University in 2022, surpervised by [Prof. Hongchao Zhou](https://faculty.sdu.edu.cn/zhouhongchao/zh_CN/) and [Prof. Xiong Hailiang](https://faculty.sdu.edu.cn/xionghailiang).
 
 My research interests include **data mining**, **knowledge graph** and **AI for science**.
-I’m currently devoted to research on **time series analysis**, machine learning problems with **missing data**. What's more, I'm learning how to train a time series or spatio-temporal data foundation models now.
+I’m currently devoted to research on **time series analysis**, machine learning problems with **missing data**. What's more, I'm learning how to train a time series or spatio-temporal foundation model.
 
-I am looking for research partners. If you are interested, please contact me [jianpingzhou0927@gmail.com](jianpingzhou0927@gmail.com).
+I am looking for research partners. If you are interested, please contact me jianpingzhou0927@gmail.com.
 
 <!-- My research interest includes neural machine translation and computer vision.  -->
 
@@ -37,7 +37,7 @@ I am looking for research partners. If you are interested, please contact me [ji
 
 # 📝 Publications
 
-- <span class='paper-badge'>ICASSP 2024</span> **Tdowars Controlled Table-to-Text Generation with Scientific Reasoning**<br>
+- <span class='paper-badge'>ICASSP 2024</span> **Towards Controlled Table-to-Text Generation with Scientific Reasoning**<br>
   _Zhixin Guo, <u><b>Jianping Zhou</b></u>, Jiexing Qi, Mingxuan Yan, Ziwei He, Guanjie Zheng, Zhouhan Lin, Xinbing Wang, Chenghu Zhou_<br>
   _IEEE International Conference on Acoustics, Speech and Signal Processing_, 2024 (CCF-B)<br>
 
@@ -59,9 +59,6 @@ I am looking for research partners. If you are interested, please contact me [ji
 
 - GeoViz is a one-stop Spatio-temporal knowledge graph (STKG) visualization platform. We developed three customized visualization views for STKG: **knowledge tree**, **knowledge network** and **knowledge map**. This project is supported by the [National key research and development plan](http://www.igsnrr.cas.cn/news/zhxw/202303/t20230303_6688038.html) and [Deep-time Digital Earth (DDE) International Big Science Program](https://deep-time.org/).
 
-</div>
-</div> -->
-
 # 💻 Internships
 
 - _2020.06 - 2020.09_, Hardware Engineer Intern, [Xilinx](https://xupsh.github.io/camp/), China.
@@ -73,7 +70,7 @@ I am looking for research partners. If you are interested, please contact me [ji
 
 # 🎖 Honors and Awards
 
-- _2020.12_&_2021.12_ National Scholarship in China (top 1%)
+- _2020.12_ & _2021.12_ National Scholarship in China (top 1%)
 - _2021.12_ Outstanding Student of Shandong Province (top 2%)
 - _2020.12_ Outstanding Student Leader of Shandong Province (top 2%)
 
