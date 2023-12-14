@@ -65,7 +65,7 @@ I am looking for research partners. If you are interested, please don't hesitate
 # 💻 Internships
 
 - _2020.06 - 2020.09_, Hardware Engineer Intern, [Xilinx](https://xupsh.github.io/camp/), China.
-- _2021.09 - 2021.12_, MindSpore Excellent Developer, [Huawei MindSpore](https://www.mindspore.cn/), China. [Certificate](https://www.mindspore.cn/community/developer)
+- _2021.09 - 2021.12_, MindSpore Excellent Developer, [Huawei MindSpore](https://www.mindspore.cn/), China. [\[Certificate\]](https://www.mindspore.cn/community/developer)
 
 # 📖 Teaching
 
