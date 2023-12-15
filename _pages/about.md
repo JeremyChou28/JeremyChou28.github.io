@@ -40,6 +40,7 @@ I am looking for research partners. If you are interested, please don't hesitate
 - <span class='paper-badge'>ICASSP 2024</span> **Towards Controlled Table-to-Text Generation with Scientific Reasoning**<br>
   _Zhixin Guo, <u><b>Jianping Zhou</b></u>, Jiexing Qi, Mingxuan Yan, Ziwei He, Guanjie Zheng, Zhouhan Lin, Xinbing Wang, Chenghu Zhou_<br>
   _IEEE International Conference on Acoustics, Speech and Signal Processing_, 2024 (CCF-B)<br>
+  <span class='paper-asset'><a href="https://arxiv.org/abs/2312.05402">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2312.05402.pdf">PDF</a></span>
 
 - <span class='paper-prebadge'>arXiv 2023</span> **Adapting Prompt for Few-shot Table-to-Text Generation**<br>
   Zhixin Guo, Minyxuan Yan, Jiexing Qi, _<u><b>Jianping Zhou</b></u>, Ziwei He, Zhouhan Lin, Guanjie Zheng, Xinbing Wang_<br>
