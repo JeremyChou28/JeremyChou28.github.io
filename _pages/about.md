@@ -49,7 +49,21 @@ I am looking for research partners. If you are interested, please don't hesitate
 
 # 🚀 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">beta</div><img src='images/geoviz.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">beta</div><img src='images/geoknowledgefusion.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Knowledge Fusion: An Advanced Platform for Efficient Multimodal Data Integration from Geoscience Literature](https://knowledgefusion.acemap.info/#/index)
+
+- DDE Knowledge Fusion is a one-stop multimodal knowledge fusion system for geoscientific literature, supporting the table extraction and table fusion from geoscience literature, as well as the extraction of knowledge tuples from text to construct knowledge graphs. We have completed the fusion of global Sm-Nd isotope tabular data and the construction of a global knowledge graph of debris flow.
+
+This project is supported by [Deep-time Digital Earth (DDE) International Big Science Program](https://deep-time.org/).
+
+- <span class='paper-prebadge'>EGU 2024</span> **Accelerating Geoscience Research: An Advanced Platform for Efficient Multimodal Data Integration from Geoscience Literature**<br>
+<span class='paper-asset'><a href="https://meetingorganizer.copernicus.org/EGU24/EGU24-13715.html">Page</a></span>
+</div>
+</div>
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">beta</div><img src='images/geoviz.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Geoviz: Spatio-temporal knowledge graph visualizations platform](https://mdkg.acemap.cn/#/index)
@@ -57,7 +71,7 @@ I am looking for research partners. If you are interested, please don't hesitate
 - GeoViz is a one-stop Spatio-temporal knowledge graph (STKG) visualization platform. We developed three customized visualization views for STKG: **knowledge tree**, **knowledge network** and **knowledge map**. This project is supported by the [National key research and development plan](http://www.igsnrr.cas.cn/news/zhxw/202303/t20230303_6688038.html) and [Deep-time Digital Earth (DDE) International Big Science Program](https://deep-time.org/).
 
 </div>
-</div>
+</div> -->
 
 <!-- **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun -->
 
