@@ -52,6 +52,11 @@ I am looking for research partners. If you are interested, please don't hesitate
   _arXiv (preprint)_, 2024<br>
   <span class='paper-asset'><a href="https://arxiv.org/abs/2403.18306">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2403.18306">PDF</a></span>
 
+- <span class='paper-prebadge'>arXiv 2024</span> **AceMap: Knowledge Discovery through Academic Graph**<br>
+  Xinbing Wang, _<u><b>Jianping Zhou</b></u>, et al.<br>
+  \_arXiv (preprint)_, 2024<br>
+  <span class='paper-asset'><a href="https://www.acemap.info/">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2403.02576">PDF</a></span>
+
 - <span class='paper-prebadge'>arXiv 2023</span> **Adapting Prompt for Few-shot Table-to-Text Generation**<br>
   Zhixin Guo, Minyxuan Yan, Jiexing Qi, _<u><b>Jianping Zhou</b></u>, Ziwei He, Zhouhan Lin, Guanjie Zheng, Xinbing Wang_<br>
   _arXiv (preprint)_, 2023<br>
