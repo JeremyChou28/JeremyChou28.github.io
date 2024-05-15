@@ -47,11 +47,6 @@ I am looking for research partners. If you are interested, please don't hesitate
   _arXiv (preprint)_, 2024<br>
   <span class='paper-asset'><a href="https://arxiv.org/abs/2405.03697">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2405.03697">PDF</a></span> <span class='paper-asset'><a href="https://www.youtube.com/watch?v=o31xlMEmcl4">Video</a></span>
 
-- <span class='paper-prebadge'>arXiv 2024</span> **Sm-Nd Isotope Data Compilation from Geoscientific Literature Using an Automated Tabular Extraction Method**<br>
-  Zhixin Guo, Tao Wang, Chaoyang Wang, _<u><b>Jianping Zhou</b></u>, Guanjie Zheng, Xinbing Wang, Chenghu Zhou_<br>
-  _arXiv (preprint)_, 2024<br>
-  <span class='paper-asset'><a href="https://arxiv.org/abs/2403.18306">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2403.18306">PDF</a></span>
-
 - <span class='paper-prebadge'>arXiv 2024</span> **AceMap: Knowledge Discovery through Academic Graph**<br>
   Xinbing Wang, _<u><b>Jianping Zhou</b></u>, et al._<br>
   _arXiv (preprint)_, 2024<br>
@@ -75,7 +70,12 @@ I am looking for research partners. If you are interested, please don't hesitate
   <span class='paper-asset'><a href="https://www.mdpi.com/2072-4292/16/9/1484">Page</a></span> <span class='paper-asset'><a href="https://www.mdpi.com/2072-4292/16/9/1484/pdf">PDF</a></span>
 
 - <span class='paper-badge'>EGU 2024</span> **Accelerating Geoscience Research: An Advanced Platform for Efficient Multimodal Data Integration from Geoscience Literature**<br>
-<span class='paper-asset'><a href="https://meetingorganizer.copernicus.org/EGU24/EGU24-13715.html">Page</a></span>
+  <span class='paper-asset'><a href="https://meetingorganizer.copernicus.org/EGU24/EGU24-13715.html">Page</a></span>
+
+- <span class='paper-prebadge'>arXiv 2024</span> **Sm-Nd Isotope Data Compilation from Geoscientific Literature Using an Automated Tabular Extraction Method**<br>
+Zhixin Guo, Tao Wang, Chaoyang Wang, _<u><b>Jianping Zhou</b></u>, Guanjie Zheng, Xinbing Wang, Chenghu Zhou_<br>
+_arXiv (preprint)_, 2024<br>
+<span class='paper-asset'><a href="https://arxiv.org/abs/2403.18306">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2403.18306">PDF</a></span>
 </div>
 </div>
 
