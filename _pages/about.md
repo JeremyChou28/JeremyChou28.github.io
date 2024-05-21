@@ -24,7 +24,7 @@ I received my bachelor's degree from Chongxin College at [Shandong University](h
 My research interests include **data mining**, **knowledge graph** and **AI for science**.
 I’m currently devoted to research on **time series analysis**, machine learning problems with **missing data**. What's more, I'm learning how to train a time series or spatio-temporal foundation model.
 
-I am looking for research partners. If you are interested, please don't hesitate to contact me.
+I am looking for collaborations and am also open to **interested undergraduate interns**. Please feel free to contact me!
 
 <!-- My research interest includes neural machine translation and computer vision.  -->
 
