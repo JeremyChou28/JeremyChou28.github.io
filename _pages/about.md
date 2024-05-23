@@ -70,7 +70,7 @@ I am looking for collaborations and am also open to **interested undergraduate i
   <span class='paper-asset'><a href="https://www.mdpi.com/2072-4292/16/9/1484">Page</a></span> <span class='paper-asset'><a href="https://www.mdpi.com/2072-4292/16/9/1484/pdf">PDF</a></span> <span class='paper-asset'><a href="https://github.com/sjtugzx/GeoKnowledgeFusion">Code</a></span>
 
 - <span class='paper-badge'>EGU 2024</span> **Accelerating Geoscience Research: An Advanced Platform for Efficient Multimodal Data Integration from Geoscience Literature**<br>
-  <span class='paper-asset'><a href="https://meetingorganizer.copernicus.org/EGU24/EGU24-13715.html">Page</a></span>
+  <span class='paper-asset'><a href="https://meetingorganizer.copernicus.org/EGU24/EGU24-13715.html">Page</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/JeremyChou28.github.io/blob/main/files/EGU2024-poster.pdf">Poster</a></span>
 
 - <span class='paper-prebadge'>arXiv 2024</span> **Sm-Nd Isotope Data Compilation from Geoscientific Literature Using an Automated Tabular Extraction Method**<br>
 Zhixin Guo, Tao Wang, Chaoyang Wang, _<u><b>Jianping Zhou</b></u>, Guanjie Zheng, Xinbing Wang, Chenghu Zhou_<br>
