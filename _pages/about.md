@@ -42,6 +42,10 @@ I am looking for collaborations and am also open to **interested undergraduate i
   _IEEE International Conference on Acoustics, Speech and Signal Processing_, 2024 (CCF-B)<br>
   <span class='paper-asset'><a href="https://arxiv.org/abs/2312.05402">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2312.05402.pdf">PDF</a></span> <span class='paper-asset'><a href="https://github.com/sjtugzx/CTRLSciTab">Code</a></span>
 
+- <span class='paper-badge'>ICPR 2024</span> **SWave: Improving Vocoder Efficiency by Straightening the Waveform Generation Path**<br>
+  _Pan Liu, <u><b>Jianping Zhou</b></u>, Xiaohua Tian, Zhouhan Lin_<br>
+  _International Conference on Pattern Recognition_, 2024 (CCF-C)<br>
+
 - <span class='paper-prebadge'>arXiv 2024</span> **MagiNet: Mask-Aware Graph Imputation Network for Incomplete Traffic Data**<br>
   _<u><b>Jianping Zhou</b></u>, Bin Lu, Zhanyu Liu, Siyu Pan, Xuejun Feng, Hua Wei,
   Guanjie Zheng, Xinbing Wang, Chenghu Zhou_<br>
