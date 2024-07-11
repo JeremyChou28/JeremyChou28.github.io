@@ -47,9 +47,9 @@ I am looking for collaborations and am also open to **interested undergraduate i
   _International Conference on Pattern Recognition_, 2024 (清华 B 类, CCF-C)<br>
   <span class='paper-asset'><a href="https://swave-demo.github.io/">Page</a></span> <span class='paper-asset'><a href="https://github.com/swave-demo/swave">Code</a></span>
 
-- <span class='paper-prebadge'>TASLP 2023</span> **Adapting Knowledge for Few-shot Table-to-Text Generation**<br>
+- <span class='paper-badge'>TASLP 2023</span> **Adapting Knowledge for Few-shot Table-to-Text Generation**<br>
   Zhixin Guo, Minyxuan Yan, Jiexing Qi, _<u><b>Jianping Zhou</b></u>, Ziwei He, Zhouhan Lin, Guanjie Zheng, Xinbing Wang_<br>
-  \_Transactions on Audio, Speech and Language Processing, 2023 (CCF-B)<br>
+  _Transactions on Audio, Speech and Language Processing_, 2023 (CCF-B)<br>
   <span class='paper-asset'><a href="https://arxiv.org/abs/2302.12468">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2302.12468.pdf">PDF</a></span>
 
 - <span class='paper-prebadge'>arXiv 2024</span> **MagiNet: Mask-Aware Graph Imputation Network for Incomplete Traffic Data**<br>
