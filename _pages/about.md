@@ -76,13 +76,10 @@ I am looking for collaborations and am also open to **interested undergraduate i
 
 - DDE Knowledge Fusion is a one-stop multimodal knowledge fusion system for geoscientific literature, supporting the table extraction and table fusion from geoscience literature, as well as the extraction of knowledge tuples from text to construct knowledge graphs. We have completed the fusion of global Sm-Nd isotope tabular data and the construction of a global knowledge graph of debris flow. This project is supported by [Deep-time Digital Earth (DDE) International Big Science Program](https://deep-time.org/).
 
-- <span class='paper-badge'>Remote Sensing 2024</span> **GeoKnowledgeFusion: A Platform for Multimodal Data Compilation from Geoscience Literature**<br>
-  <br>
-  (SCI Q2)<br>
+- <span class='paper-badge'>Remote Sensing 2024</span> **GeoKnowledgeFusion: A Platform for Multimodal Data Compilation from Geoscience Literature** (SCI Q2)<br>
   <span class='paper-asset'><a href="https://www.mdpi.com/2072-4292/16/9/1484">Page</a></span> <span class='paper-asset'><a href="https://www.mdpi.com/2072-4292/16/9/1484/pdf">PDF</a></span> <span class='paper-asset'><a href="https://github.com/sjtugzx/GeoKnowledgeFusion">Code</a></span>
 
-- <span class='paper-badge'>EGU 2024</span> **Accelerating Geoscience Research: An Advanced Platform for Efficient Multimodal Data Integration from Geoscience Literature**<br><br>
-  (清华 A 类)<br>
+- <span class='paper-badge'>EGU 2024</span> **Accelerating Geoscience Research: An Advanced Platform for Efficient Multimodal Data Integration from Geoscience Literature** (清华 A 类)<br>
   <span class='paper-asset'><a href="https://meetingorganizer.copernicus.org/EGU24/EGU24-13715.html">Page</a></span> <span class='paper-asset'><a href="https://jeremychou28.github.io/files/EGU2024-poster.pdf">Poster</a></span>
 
 - <span class='paper-prebadge'>arXiv 2024</span> **Sm-Nd Isotope Data Compilation from Geoscientific Literature Using an Automated Tabular Extraction Method**<br>
