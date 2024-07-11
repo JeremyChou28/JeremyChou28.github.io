@@ -48,8 +48,8 @@ I am looking for collaborations and am also open to **interested undergraduate i
   <span class='paper-asset'><a href="https://swave-demo.github.io/">Page</a></span> <span class='paper-asset'><a href="https://github.com/swave-demo/swave">Code</a></span>
 
 - <span class='paper-badge'>TASLP 2023</span> **Adapting Knowledge for Few-shot Table-to-Text Generation**<br>
-  _Zhixin Guo, Minyxuan Yan, Jiexing Qi, _<u><b>Jianping Zhou</b></u>, Ziwei He, Zhouhan Lin, Guanjie Zheng, Xinbing Wang*<br>
-  \_Transactions on Audio, Speech and Language Processing*, 2023 (CCF-B)<br>
+  _Zhixin Guo, Minyxuan Yan, Jiexing Qi, <u><b>Jianping Zhou</b></u>, Ziwei He, Zhouhan Lin, Guanjie Zheng, Xinbing Wang_<br>
+  _Transactions on Audio, Speech and Language Processing_, 2023 (CCF-B)<br>
   <span class='paper-asset'><a href="https://arxiv.org/abs/2302.12468">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2302.12468.pdf">PDF</a></span>
 
 - <span class='paper-prebadge'>arXiv 2024</span> **MagiNet: Mask-Aware Graph Imputation Network for Incomplete Traffic Data**<br>
@@ -64,7 +64,7 @@ I am looking for collaborations and am also open to **interested undergraduate i
   <span class='paper-asset'><a href="https://arxiv.org/abs/2405.03697">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2405.03697">PDF</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/GeoViz">Code</a></span> <span class='paper-asset'><a href="https://www.youtube.com/watch?v=o31xlMEmcl4">Video</a></span>
 
 - <span class='paper-prebadge'>arXiv 2024</span> **AceMap: Knowledge Discovery through Academic Graph**<br>
-  _Xinbing Wang, _<u><b>Jianping Zhou</b></u>, et al._<br> \_arXiv (preprint)_, 2024<br>
+  _Xinbing Wang, <u><b>Jianping Zhou</b></u>, et al._<br> _arXiv (preprint)_, 2024<br>
   <span class='paper-asset'><a href="https://www.acemap.info/">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2403.02576">PDF</a></span> <span class='paper-asset'><a href="https://github.com/Acemap">Code</a></span>
 
 # 🚀 Projects
