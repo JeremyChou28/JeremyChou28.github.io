@@ -40,7 +40,7 @@ I am looking for collaborations and am also open to **interested undergraduate i
 - <span class='paper-badge'>CIKM 2024</span> **MTSCI: A Conditional Diffusion Model for Multivariate Time Series Consistent Imputation**<br>
   _<u><b>Jianping Zhou</b></u>, Junhao Li, Guanjie Zheng, Xinbing Wang, Chenghu Zhou_<br>
   _ACM International Conference on Information and Knowledge Management_, 2024 (CCF-B)<br>
-  <!-- <span class='paper-asset'><a href="https://arxiv.org/abs/2312.05402">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2312.05402.pdf">PDF</a></span> <span class='paper-asset'><a href="https://github.com/sjtugzx/CTRLSciTab">Code</a></span> -->
+  <span class='paper-asset'><a href="https://arxiv.org/abs/2408.05740">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2408.05740">PDF</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/MTSCI">Code</a></span>
 
 - <span class='paper-badge'>ICASSP 2024</span> **Towards Controlled Table-to-Text Generation with Scientific Reasoning**<br>
   _Zhixin Guo, <u><b>Jianping Zhou</b></u>, Jiexing Qi, Mingxuan Yan, Ziwei He, Guanjie Zheng, Zhouhan Lin, Xinbing Wang, Chenghu Zhou_<br>
