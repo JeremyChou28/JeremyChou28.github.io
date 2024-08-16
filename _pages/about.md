@@ -21,8 +21,9 @@ I’m currently a second year Ph.D. candidate at [IIoT Research Center](https://
 
 I received my bachelor's degree from Chongxin College at [Shandong University](https://www.sdu.edu.cn) in 2022, surpervised by [Prof. Hongchao Zhou](https://faculty.sdu.edu.cn/zhouhongchao/zh_CN/) and [Prof. Hailiang Xiong](https://faculty.sdu.edu.cn/xionghailiang).
 
-My research interests include **data mining**, **knowledge graph** and **AI for science**.
-I’m currently devoted to research on **time series analysis**, **spatio-temporal data**, machine learning problems with **missing data**. What's more, I'm trying to utilize LLMs for time series and spatio-temporal data, or to develop multi-modal foundation model.
+My research interests include **time series**, **spatio-temporal data mining**, **knowledge graph** and **AI for Science**.
+I’m currently working on **missing problems** in spatio-temporal data and multivariate time series. What's more, I'm trying to use LLMs to solve time series and spatio-temporal data mining problems and contribute to the development of **multimodal foundation models**.
+I am collaborating with [Prof. Kun Zhang](https://sese.sjtu.edu.cn/faculty/view/27) in **Geoscience** to explore the application of AI in cross-disciplinary research.
 
 I am looking for collaborations and am also open to **interested undergraduate interns**. Please feel free to contact me!
 
