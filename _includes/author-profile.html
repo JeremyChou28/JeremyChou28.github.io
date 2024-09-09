@@ -63,6 +63,13 @@ endif %}
           ResearchGate</a
         >
       </li>
+      {% endif %} {% if author.semanticscholar %}
+      <li>
+        <a href="https://www.semanticscholar.org/{{ author.semanticscholar }}"
+          ><i class="fab fa-fw fa-semanticscholar" aria-hidden="true"></i>
+          Semantic Scholar</a
+        >
+      </li>
       {% endif %} {% if author.twitter %}
       <li>
         <a href="https://twitter.com/{{ author.twitter }}"
