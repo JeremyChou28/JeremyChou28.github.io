@@ -261,6 +261,10 @@ endif %}
       <a href="https://twitter.com/{{ author.twitter }}"
         ><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i
       ></a>
+      {% endif %} {% if author.semantic_scholar %}
+      <a href="https://www.semanticscholar.org/{{ author.semantic_scholar }}"
+        ><i class="fab fa-fw fa-semantic_scholar-square" aria-hidden="true"></i
+      ></a>
       {% endif %} {% if author.facebook %}
       <a href="https://www.facebook.com/{{ author.facebook }}"
         ><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i
