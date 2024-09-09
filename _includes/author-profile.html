@@ -63,13 +63,6 @@ endif %}
           ResearchGate</a
         >
       </li>
-      {% endif %} {% if author.semanticscholar %}
-      <li>
-        <a href="https://www.semanticscholar.org/{{ author.semanticscholar }}"
-          ><i class="fab fa-fw fa-semanticscholar" aria-hidden="true"></i>
-          Semantic Scholar</a
-        >
-      </li>
       {% endif %} {% if author.twitter %}
       <li>
         <a href="https://twitter.com/{{ author.twitter }}"
@@ -95,12 +88,6 @@ endif %}
       <li>
         <a href="https://www.linkedin.com/in/{{ author.linkedin }}"
           ><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a
-        >
-      </li>
-      {% endif %} {% if author.dblp %}
-      <li>
-        <a href="{{ author.dblp }}"
-          ><i class="ai ai-dblp ai-fw" aria-hidden="true"></i> DBLP</a
         >
       </li>
       {% endif %} {% if author.xing %}
@@ -220,10 +207,22 @@ endif %}
           ><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a
         >
       </li>
+      {% endif %} {% if author.semanticscholar %}
+      <li>
+        <a href="https://www.semanticscholar.org/{{ author.semanticscholar }}"
+          ><i class="fab fa-fw fa-graduation-cap"></i> Semantic Scholar</a
+        >
+      </li>
       {% endif %} {% if author.pubmed %}
       <li>
         <a href="{{ author.pubmed }}"
           ><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a
+        >
+      </li>
+      {% endif %} {% if author.dblp %}
+      <li>
+        <a href="{{ author.dblp }}"
+          ><i class="ai ai-dblp ai-fw" aria-hidden="true"></i> DBLP</a
         >
       </li>
       {% endif %} {% if author.orcid %}
@@ -268,10 +267,6 @@ endif %}
       <a href="https://twitter.com/{{ author.twitter }}"
         ><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i
       ></a>
-      {% endif %} {% if author.semanticscholar %}
-      <a href="https://www.semanticscholar.org/{{ author.semanticscholar }}"
-        ><i class="fab fa-fw fa-semanticscholar-square" aria-hidden="true"></i
-      ></a>
       {% endif %} {% if author.facebook %}
       <a href="https://www.facebook.com/{{ author.facebook }}"
         ><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i
@@ -283,10 +278,6 @@ endif %}
       {% endif %} {% if author.linkedin %}
       <a href="https://www.linkedin.com/in/{{ author.linkedin }}"
         ><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i
-      ></a>
-      {% endif %} {% if author.dblp %}
-      <a href="{{ author.dblp }}"
-        ><i class="ai ai-dblp ai-fw" aria-hidden="true"></i
       ></a>
       {% endif %} {% if author.xing %}
       <a href="https://www.xing.com/profile/{{ author.xing }}"
@@ -360,9 +351,17 @@ endif %}
       <a href="{{ author.googlescholar }}"
         ><i class="fas fa-fw fa-graduation-cap"></i
       ></a>
+      {% endif %} {% if author.semanticscholar %}
+      <a href="https://www.semanticscholar.org/{{ author.semanticscholar }}"
+        ><i class="fab fa-fw fa-graduation-cap"></i
+      ></a>
       {% endif %} {% if author.pubmed %}
       <a href="{{ author.pubmed }}"
         ><i class="ai ai-pubmed-square ai-fw"></i
+      ></a>
+      {% endif %} {% if author.dblp %}
+      <a href="{{ author.dblp }}"
+        ><i class="ai ai-dblp ai-fw" aria-hidden="true"></i
       ></a>
       {% endif %} {% if author.orcid %}
       <a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i></a>
