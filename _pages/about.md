@@ -116,7 +116,7 @@ _arXiv (preprint)_, 2024<br>
 
 # 📖 Teaching
 
-- Teaching Assistant, Communication Theory (EST3306), Shanghai Jiao Tong University. (Fall 2023)
+- Teaching Assistant, Communication Theory (EST3306), Shanghai Jiao Tong University. (Fall 2023, Fall 2024)
 
 # 🎖 Honors and Awards
 
