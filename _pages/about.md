@@ -50,7 +50,7 @@ I am looking for collaborations and am also open to **interested undergraduate i
 
 - <span class='paper-badge'>ICPR 2024</span> **SWave: Improving Vocoder Efficiency by Straightening the Waveform Generation Path**<br>
   _Pan Liu, <u><b>Jianping Zhou</b></u>, Xiaohua Tian, Zhouhan Lin_<br>
-  _International Conference on Pattern Recognition_, 2024 (清华 B 类, CCF-C)<br>
+  _International Conference on Pattern Recognition_, 2024 (交大 A 类)<br>
   <span class='paper-asset'><a href="https://swave-demo.github.io/">Page</a></span> <span class='paper-asset'><a href="https://github.com/swave-demo/swave">Code</a></span>
 
 - <span class='paper-badge'>TASLP 2023</span> **Adapting Knowledge for Few-shot Table-to-Text Generation**<br>
