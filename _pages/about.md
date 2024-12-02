@@ -88,10 +88,20 @@ I am looking for collaborations and am also open to **interested undergraduate i
 - <span class='paper-badge'>EGU 2024</span> **Accelerating Geoscience Research: An Advanced Platform for Efficient Multimodal Data Integration from Geoscience Literature** (清华 A 类)<br>
   <span class='paper-asset'><a href="https://meetingorganizer.copernicus.org/EGU24/EGU24-13715.html">Page</a></span> <span class='paper-asset'><a href="https://jeremychou28.github.io/files/EGU2024-poster.pdf">Poster</a></span>
 
-- <span class='paper-prebadge'>SData 2024</span> **Sm-Nd Isotope Data Compilation from Geoscientific Literature Using an Automated Tabular Extraction Method** (Nature 子刊)<br>
+- <span class='paper-badge'>SData 2024</span> **Sm-Nd Isotope Data Compilation from Geoscientific Literature Using an Automated Tabular Extraction Method** (Nature 子刊)<br>
 _Zhixin Guo, Tao Wang, Chaoyang Wang, <u><b>Jianping Zhou</b></u>, Guanjie Zheng, Xinbing Wang, Chenghu Zhou_<br>
 _Scientific data_, 2024<br>
 <span class='paper-asset'><a href="https://arxiv.org/abs/2403.18306">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2403.18306">PDF</a></span> <span class='paper-asset'><a href="https://github.com/sjtugzx/tabularDataCollection">Code</a></span>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/pollutants.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Global Environmental Pollutants Database
+
+- We want to build the global pollutant-centric databases involving pollutant molecular descriptors, mass spectrometry data, toxicity data and behavioral disease data. Based on this database, we want to realize causal reasoning and scientific discovery of emerging pollutants. This project is supported by the Innovative Research Group Program "GeoScience Knowledge Graph" from NSFC.
+
 </div>
 </div>
 
