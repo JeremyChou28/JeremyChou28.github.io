@@ -129,6 +129,11 @@ Global Environmental Pollutants Database
 
 - Teaching Assistant, Communication Theory (EST3306), Shanghai Jiao Tong University. (Fall 2023, Fall 2024)
 
+# 📑 Academic Services
+
+- Conference Reviewer: ICLR'25, IJCAI'25
+- Journal Reviewer: TKDD'24
+
 # 🎖 Honors and Awards
 
 - _2020.12_, _2021.12_ National Scholarship in China (top 1%)
