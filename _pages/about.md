@@ -23,7 +23,7 @@ I received my bachelor's degree from Chongxin College at [Shandong University](h
 
 My research interests include **time series**, **spatio-temporal data mining**, **knowledge graph** and **AI for Science**.
 I’m currently working on **missing problems** in spatio-temporal data and multivariate time series. What's more, I'm trying to use LLMs to solve time series and spatio-temporal data mining problems and contribute to the development of **multimodal foundation models**.
-I am collaborating with [Prof. Meng Jin](https://yume-sjtu.github.io/) and [Prof. Kun Zhang](https://sese.sjtu.edu.cn/faculty/view/27) in **Environmental Pollutants** to explore the application of AI in cross-disciplinary research.
+I am collaborating with [Prof. Meng Jin](https://yume-sjtu.github.io/) and [Prof. Kun Zhang](https://sese.sjtu.edu.cn/faculty/view/27) to explore the applications of AI in molecular annotation of **Emerging Pollutants**.
 
 I am looking for collaborations and am also open to **interested undergraduate interns**. Please feel free to contact me!
 
