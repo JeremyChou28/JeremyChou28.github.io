@@ -61,12 +61,12 @@ I am looking for collaborations and am also open to **interested undergraduate i
 
 - <span class='paper-badge'>ICPR 2024</span> **SWave: Improving Vocoder Efficiency by Straightening the Waveform Generation Path**<br>
   _Pan Liu, <u><b>Jianping Zhou</b></u>, Xiaohua Tian, Zhouhan Lin_<br>
-  _International Conference on Pattern Recognition_, 2024 (交大 A 类)<br>
+  _IEEE International Conference on Pattern Recognition_, 2024 (交大 A 类)<br>
   <span class='paper-asset'><a href="https://swave-demo.github.io/">Page</a></span> <span class='paper-asset'><a href="https://link.springer.com/chapter/10.1007/978-3-031-78172-8_26">PDF</a></span> <span class='paper-asset'><a href="https://github.com/swave-demo/swave">Code</a></span>
 
 - <span class='paper-badge'>TASLP 2023</span> **Adapting Knowledge for Few-shot Table-to-Text Generation**<br>
   _Zhixin Guo, Minyxuan Yan, Jiexing Qi, <u><b>Jianping Zhou</b></u>, Ziwei He, Guanjie Zheng, Xinbing Wang, Chenghu Zhou_<br>
-  _Transactions on Audio, Speech and Language Processing_, 2023 (CCF-B)<br>
+  _IEEE/ACM Transactions on Audio, Speech and Language Processing_, 2023 (CCF-B)<br>
   <span class='paper-asset'><a href="https://arxiv.org/abs/2302.12468">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2302.12468.pdf">PDF</a></span> <span class='paper-asset'><a href="https://github.com/sjtugzx/akg">Code</a></span>
 
 - <span class='paper-prebadge'>arXiv 2024</span> **GeoViz: A Multi-View Visualization Platform for Spatio-temporal Knowledge Graph**<br>
