@@ -38,12 +38,12 @@ I am looking for collaborations and am also open to **interested undergraduate i
 
 # 📝 Publications
 
-- <span class='paper-asset'>TKDD 20245</span> **MagiNet: Mask-Aware Graph Imputation Network for Incomplete Traffic Data**<br>
+- <span class='paper-badge'>TKDD 20245</span> **MagiNet: Mask-Aware Graph Imputation Network for Incomplete Traffic Data**<br>
   _<u><b>Jianping Zhou</b></u>, Bin Lu, Zhanyu Liu, Siyu Pan, Xuejun Feng, Hua Wei,
   Guanjie Zheng, Xinbing Wang, Chenghu Zhou_<br>
   _ACM Transactions on Knowledge Discovery from Data_, 2025 (CCF-B)<br>
   <span class='paper-asset'><a href="https://arxiv.org/abs/2406.03511">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2406.03511">PDF</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/MagiNet">Code</a></span>
-  
+
 - <span class='paper-badge'>CIKM 2024</span> **MTSCI: A Conditional Diffusion Model for Multivariate Time Series Consistent Imputation**<br>
   _<u><b>Jianping Zhou</b></u>, Junhao Li, Guanjie Zheng, Xinbing Wang, Chenghu Zhou_<br>
   _ACM International Conference on Information and Knowledge Management_, 2024 (CCF-B)<br>
