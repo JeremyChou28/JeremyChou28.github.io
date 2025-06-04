@@ -38,7 +38,7 @@ I am looking for collaborations and am also open to **interested undergraduate i
 
 # 📝 Publications
 
-- <span class='paper-badge'>TKDD 20245</span> **MagiNet: Mask-Aware Graph Imputation Network for Incomplete Traffic Data**<br>
+- <span class='paper-badge'>TKDD 2025</span> **MagiNet: Mask-Aware Graph Imputation Network for Incomplete Traffic Data**<br>
   _<u><b>Jianping Zhou</b></u>, Bin Lu, Zhanyu Liu, Siyu Pan, Xuejun Feng, Hua Wei,
   Guanjie Zheng, Xinbing Wang, Chenghu Zhou_<br>
   _ACM Transactions on Knowledge Discovery from Data_, 2025 (CCF-B)<br>
