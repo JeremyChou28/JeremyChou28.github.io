@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m currently a second year Ph.D. candidate at [IIoT Research Center](https://iiot.sjtu.edu.cn/#/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I have the honor to be supervised by [Prof. Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/) and [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/). Now I work closely with [Lei Bai](http://leibai.site/) research scientist from Shanghai AI Laboratory.
+I’m currently a third year Ph.D. candidate at [IIoT Research Center](https://iiot.sjtu.edu.cn/#/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I have the honor to be supervised by [Prof. Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/) and [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/). Now I work closely with [Lei Bai](http://leibai.site/) research scientist from Shanghai AI Laboratory.
 
 I received my bachelor's degree from Chongxin College at [Shandong University](https://www.sdu.edu.cn) in 2022, surpervised by [Prof. Hongchao Zhou](https://faculty.sdu.edu.cn/zhouhongchao/zh_CN/) and [Prof. Hailiang Xiong](https://faculty.sdu.edu.cn/xionghailiang).
 
@@ -38,6 +38,12 @@ I am looking for collaborations and am also open to **interested undergraduate i
 
 # 📝 Publications
 
+- <span class='paper-asset'>TKDD 20245</span> **MagiNet: Mask-Aware Graph Imputation Network for Incomplete Traffic Data**<br>
+  _<u><b>Jianping Zhou</b></u>, Bin Lu, Zhanyu Liu, Siyu Pan, Xuejun Feng, Hua Wei,
+  Guanjie Zheng, Xinbing Wang, Chenghu Zhou_<br>
+  _ACM Transactions on Knowledge Discovery from Data_, 2025 (CCF-B)<br>
+  <span class='paper-asset'><a href="https://arxiv.org/abs/2406.03511">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2406.03511">PDF</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/MagiNet">Code</a></span>
+  
 - <span class='paper-badge'>CIKM 2024</span> **MTSCI: A Conditional Diffusion Model for Multivariate Time Series Consistent Imputation**<br>
   _<u><b>Jianping Zhou</b></u>, Junhao Li, Guanjie Zheng, Xinbing Wang, Chenghu Zhou_<br>
   _ACM International Conference on Information and Knowledge Management_, 2024 (CCF-B)<br>
@@ -62,12 +68,6 @@ I am looking for collaborations and am also open to **interested undergraduate i
   _Zhixin Guo, Minyxuan Yan, Jiexing Qi, <u><b>Jianping Zhou</b></u>, Ziwei He, Guanjie Zheng, Xinbing Wang, Chenghu Zhou_<br>
   _Transactions on Audio, Speech and Language Processing_, 2023 (CCF-B)<br>
   <span class='paper-asset'><a href="https://arxiv.org/abs/2302.12468">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2302.12468.pdf">PDF</a></span> <span class='paper-asset'><a href="https://github.com/sjtugzx/akg">Code</a></span>
-
-- <span class='paper-prebadge'>arXiv 2024</span> **MagiNet: Mask-Aware Graph Imputation Network for Incomplete Traffic Data**<br>
-  _<u><b>Jianping Zhou</b></u>, Bin Lu, Zhanyu Liu, Siyu Pan, Xuejun Feng, Hua Wei,
-  Guanjie Zheng, Xinbing Wang, Chenghu Zhou_<br>
-  _arXiv (preprint)_, 2024<br>
-  <span class='paper-asset'><a href="https://arxiv.org/abs/2406.03511">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2406.03511">PDF</a></span>
 
 - <span class='paper-prebadge'>arXiv 2024</span> **GeoViz: A Multi-View Visualization Platform for Spatio-temporal Knowledge Graph**<br>
   _<u><b>Jianping Zhou</b></u>, Junhao Li, Guanjie Zheng, Yunqiang Zhu, Xinbing Wang, Chenghu Zhou_<br>
