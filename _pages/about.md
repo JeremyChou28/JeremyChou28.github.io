@@ -66,7 +66,7 @@ I am looking for collaborations and am also open to **interested undergraduate i
 
 - <span class='paper-badge'>TASLP 2024</span> **Adapting Knowledge for Few-shot Table-to-Text Generation**<br>
   _Zhixin Guo, Minyxuan Yan, Jiexing Qi, <u><b>Jianping Zhou</b></u>, Ziwei He, Guanjie Zheng, Xinbing Wang, Chenghu Zhou_<br>
-  _IEEE/ACM Transactions on Audio, Speech and Language Processing_, 2023 (CCF-B)<br>
+  _IEEE/ACM Transactions on Audio, Speech and Language Processing_, 2024 (CCF-B)<br>
   <span class='paper-asset'><a href="https://arxiv.org/abs/2302.12468">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2302.12468.pdf">PDF</a></span> <span class='paper-asset'><a href="https://github.com/sjtugzx/akg">Code</a></span>
 
 - <span class='paper-prebadge'>arXiv 2024</span> **GeoViz: A Multi-View Visualization Platform for Spatio-temporal Knowledge Graph**<br>
