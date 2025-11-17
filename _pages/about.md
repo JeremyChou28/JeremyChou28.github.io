@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m currently a third year Ph.D. candidate at [IIoT Research Center](https://iiot.sjtu.edu.cn/#/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I have the honor to be supervised by [Prof. Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/) and [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/). Now I work closely with [Lei Bai](http://leibai.site/) research scientist from Shanghai AI Laboratory.
+I’m currently a fourth year Ph.D. candidate at [IIoT Research Center](https://iiot.sjtu.edu.cn/#/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I have the honor to be supervised by [Prof. Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/) and [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/). Now I work closely with [Lei Bai](http://leibai.site/) research scientist from Shanghai AI Laboratory.
 
 I received my bachelor's degree from Chongxin College at [Shandong University](https://www.sdu.edu.cn) in 2022, supervised by [Prof. Hongchao Zhou](https://faculty.sdu.edu.cn/zhouhongchao/zh_CN/) and [Prof. Hailiang Xiong](https://faculty.sdu.edu.cn/xionghailiang).
 
@@ -25,7 +25,7 @@ My research interests include **time series**, **spatio-temporal data mining**, 
 I’m currently working on **missing problems** in spatio-temporal data and multivariate time series. What's more, I'm trying to use LLMs to solve time series and spatio-temporal data mining problems and contribute to the development of **multimodal foundation models**.
 I am collaborating with [Prof. Kun Zhang](https://sese.sjtu.edu.cn/faculty/view/27) to explore the applications of AI in molecular annotation of **Emerging Pollutants**.
 
-I am looking for collaborations and am also open to **interested undergraduate interns**. Please feel free to contact me!
+<!-- I am looking for collaborations and am also open to **interested undergraduate interns**. Please feel free to contact me! -->
 
 <!-- My research interest includes neural machine translation and computer vision.  -->
 
@@ -96,12 +96,12 @@ I am looking for collaborations and am also open to **interested undergraduate i
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/pollutants.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">beta</div><img src='images/cgran.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Global Environmental Pollutants Database
+[Molecular Annotation for Emerging Pollutants](https://cgran.acemap.info/#/)
 
-- We want to build the global pollutant-centric databases involving pollutant molecular descriptors, mass spectrometry data, toxicity data and behavioral disease data. Based on this database, we want to realize causal reasoning and scientific discovery of emerging pollutants. This project is supported by the Innovative Research Group Program "GeoScience Knowledge Graph" from NSFC.
+- C-GRAN (Community-Guided Recursive Annotation Network) is an open, network-based framework for the systematic discovery and annotation of emerging structural analogs in complex environmental samples. Designed for non-target screening (NTS) using tandem mass spectrometry (MS/MS), C-GRAN integrates molecular networking with sample-wise co-occurrence analysis to uncover structurally or functionally related compounds beyond spectral similarity constraints. Starting from high-confidence seed annotations, candidate compounds are expanded through a recursive database search strategy, incorporating exact-mass-based matching. Each candidate is ranked based on structural similarity to known analogs, fragment match quality, and occurrence correlation. By iteratively propagating annotations across molecular networks, C-GRAN enables high-coverage identification of structurally diverse compounds—especially those missed by traditional spectral-based tools.
 
 </div>
 </div>
@@ -131,7 +131,7 @@ Global Environmental Pollutants Database
 
 # 📑 Academic Services
 
-- Conference Reviewer: ICLR'25, IJCAI'25
+- Conference Reviewer: ICLR'26, ICLR'25, IJCAI'25
 - Journal Reviewer: TKDD'24
 
 # 🎖 Honors and Awards
