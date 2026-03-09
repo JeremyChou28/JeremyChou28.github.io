@@ -38,6 +38,21 @@ I am collaborating with [Prof. Kun Zhang](https://sese.sjtu.edu.cn/faculty/view/
 
 # 📝 Publications
 
+- <span class='paper-badge'>TKDE 2026</span> **TRACK: Temporal Decoupled Kriging for Inductive Spatio-temporal Graph**<br>
+  _<u><b>Jianping Zhou</b></u>, Weida Wang, Bin Lu, Guanjie Zheng, Lei Bai, Xinbing Wang, Chenghu Zhou_<br>
+  _IEEE Transactions on Knowledge and Data Engineering_, 2026 (CCF-A)<br>
+  <!-- <span class='paper-asset'><a href="https://arxiv.org/abs/2406.03511">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2406.03511">PDF</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/MagiNet">Code</a></span> -->
+
+- <span class='paper-badge'>WWW 2026</span> **TargetMR: Learning Modality Target for Multimodal Recommendation**<br>
+  _Gu Tang, Jinghe Wang, Jiang Bo, Ze Zhao, <u><b>Jianping Zhou</b></u>, Xiaoying Gan, Luoyi Fu, Xinbing Wang, Chenghu Zhou_<br>
+  _The ACM Web Conference_, 2026 (CCF-A)<br>
+  <!-- <span class='paper-asset'><a href="https://arxiv.org/abs/2406.03511">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2406.03511">PDF</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/MagiNet">Code</a></span> -->
+
+- <span class='paper-badge'>DASFAA 2026</span> **HEADS: Temporal Observation Density Boosts Irregular Multivariate Time Series Forecasting**<br>
+  _Yimian Hu, <u><b>Jianping Zhou</b></u>, Bin Lu, Guanjie Zheng, Luoyi Fu, Xinbing Wang, Chenghu Zhou_<br>
+  _The 31st International Conference on Database Systems for Advanced Applications_, 2026 (CCF-B)<br>
+  <!-- <span class='paper-asset'><a href="https://arxiv.org/abs/2406.03511">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2406.03511">PDF</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/MagiNet">Code</a></span> -->
+
 - <span class='paper-badge'>TKDD 2025</span> **MagiNet: Mask-Aware Graph Imputation Network for Incomplete Traffic Data**<br>
   _<u><b>Jianping Zhou</b></u>, Bin Lu, Zhanyu Liu, Siyu Pan, Xuejun Feng, Hua Wei,
   Guanjie Zheng, Xinbing Wang, Chenghu Zhou_<br>
