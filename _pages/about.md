@@ -41,7 +41,7 @@ I am collaborating with [Prof. Kun Zhang](https://sese.sjtu.edu.cn/faculty/view/
 - <span class='paper-badge'>TKDE 2026</span> **TRACK: Temporal Decoupled Kriging for Inductive Spatio-temporal Graph**<br>
   _<u><b>Jianping Zhou</b></u>, Weida Wang, Bin Lu, Guanjie Zheng, Lei Bai, Xinbing Wang, Chenghu Zhou_<br>
   _IEEE Transactions on Knowledge and Data Engineering_, 2026 (CCF-A)<br>
-  <!-- <span class='paper-asset'><a href="https://arxiv.org/abs/2406.03511">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2406.03511">PDF</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/MagiNet">Code</a></span> -->
+  <span class='paper-asset'><a href="https://ieeexplore.ieee.org/document/11434965/">Page</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/TRACK">Code</a></span>
 
 - <span class='paper-badge'>WWW 2026</span> **TargetMR: Learning Modality Target for Multimodal Recommendation**<br>
   _Gu Tang, Jinghe Wang, Jiang Bo, Ze Zhao, <u><b>Jianping Zhou</b></u>, Xiaoying Gan, Luoyi Fu, Xinbing Wang, Chenghu Zhou_<br>
