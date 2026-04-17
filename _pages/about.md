@@ -44,9 +44,9 @@ I am collaborating with [Prof. Kun Zhang](https://sese.sjtu.edu.cn/faculty/view/
   <span class='paper-asset'><a href="https://ieeexplore.ieee.org/document/11434965/">Page</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/TRACK">Code</a></span>
 
 - <span class='paper-badge'>WWW 2026</span> **TargetMR: Learning Modality Target for Multimodal Recommendation**<br>
-  _Gu Tang, Jinghe Wang, Jiang Bo, Ze Zhao, <u><b>Jianping Zhou</b></u>, Xiaoying Gan, Luoyi Fu, Xinbing Wang, Chenghu Zhou_<br>
+  _Gu Tang, Jinghe Wang, Bo Jiang, Ze Zhao, <u><b>Jianping Zhou</b></u>, Xiaoying Gan, Luoyi Fu, Xinbing Wang, Chenghu Zhou_<br>
   _The ACM Web Conference_, 2026 (CCF-A)<br>
-  <!-- <span class='paper-asset'><a href="https://arxiv.org/abs/2406.03511">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2406.03511">PDF</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/MagiNet">Code</a></span> -->
+  <span class='paper-asset'><a href="https://dl.acm.org/doi/abs/10.1145/3774904.3792466">Page</a></span> <span class='paper-asset'><a href="https://dl.acm.org/doi/pdf/10.1145/3774904.3792466">PDF</a></span> <span class='paper-asset'><a href="https://github.com/gutang-97/TargetMR/">Code</a></span>
 
 - <span class='paper-badge'>DASFAA 2026</span> **HEADS: Temporal Observation Density Boosts Irregular Multivariate Time Series Forecasting**<br>
   _Yimian Hu, <u><b>Jianping Zhou</b></u>, Bin Lu, Guanjie Zheng, Luoyi Fu, Xinbing Wang, Chenghu Zhou_<br>
