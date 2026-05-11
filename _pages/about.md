@@ -51,7 +51,7 @@ I am collaborating with [Prof. Kun Zhang](https://sese.sjtu.edu.cn/faculty/view/
 - <span class='paper-badge'>DASFAA 2026</span> **HEADS: Temporal Observation Density Boosts Irregular Multivariate Time Series Forecasting**<br>
   _Yimian Hu, <u><b>Jianping Zhou</b></u>, Bin Lu, Guanjie Zheng, Luoyi Fu, Xinbing Wang, Chenghu Zhou_<br>
   _The 31st International Conference on Database Systems for Advanced Applications_, 2026 (CCF-B)<br>
-  <!-- <span class='paper-asset'><a href="https://arxiv.org/abs/2406.03511">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2406.03511">PDF</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/MagiNet">Code</a></span> -->
+  <span class='paper-asset'><a href="https://link.springer.com/chapter/10.1007/978-981-92-0372-7_14">Page</a></span> <span class='paper-asset'><a href="https://github.com/MatthewHu0723/HEADS">Code</a></span>
 
 - <span class='paper-badge'>TKDD 2025</span> **MagiNet: Mask-Aware Graph Imputation Network for Incomplete Traffic Data**<br>
   _<u><b>Jianping Zhou</b></u>, Bin Lu, Zhanyu Liu, Siyu Pan, Xuejun Feng, Hua Wei,
