@@ -21,9 +21,9 @@ I’m currently a fourth year Ph.D. candidate at [DIRC Research Center](https://
 
 I received my bachelor's degree from Chongxin College at [Shandong University](https://www.sdu.edu.cn) in 2022, supervised by [Prof. Hongchao Zhou](https://faculty.sdu.edu.cn/zhouhongchao/zh_CN/) and [Prof. Hailiang Xiong](https://faculty.sdu.edu.cn/xionghailiang).
 
-My research interests include **time series**, **spatio-temporal data mining**, **knowledge graph** and **AI for Science**.
-I’m currently working on **missing problems** in spatio-temporal data and multivariate time series. What's more, I'm trying to use LLMs to solve time series and spatio-temporal data mining problems and contribute to the development of **multimodal foundation models**.
-I am collaborating with [Prof. Kun Zhang](https://sese.sjtu.edu.cn/faculty/view/27) to explore the applications of AI in molecular annotation of **Emerging Pollutants**.
+My research interests include **Time Series Analysis**, **Spatio-temporal Data Mining** and **AI for GeoScience**.
+I’m currently focus on **sparsity problems (irregularity and missingness)** in multivariate time series and urban spatio-temporal data. Building on this, I am dedicated to developing multimodal foundation models capable of tackling complex time series and spatio-temporal data mining tasks in the era of LLMs.
+What's more, I am collaborating with [Prof. Kun Zhang](https://sese.sjtu.edu.cn/faculty/view/27) to explore the applications of AI in molecular annotation of Emerging Pollutants.
 
 <!-- I am looking for collaborations and am also open to **interested undergraduate interns**. Please feel free to contact me! -->
 
@@ -156,23 +156,24 @@ I am collaborating with [Prof. Kun Zhang](https://sese.sjtu.edu.cn/faculty/view/
 
 # 🎖 Honors and Awards
 
-- _2020.12_, _2021.12_ National Scholarship in China (top 1%)
+<!-- - _2020.12_, _2021.12_ National Scholarship in China (top 1%)
 - _2021.12_ President's Award of Shandong University (top 1%) [\[news\]](https://mp.weixin.qq.com/s/kg9RxqXPaxizK5F9qemySg)
 - _2021.12_ Outstanding Student of Shandong Province (top 1%)
 - _2020.12_ Outstanding Student Leader of Shandong Province (top 1%)
 - _2019.10_ First Prize of the 11th College Student Mathematics Competition
-- _2020.12_ First Prize of the 14th International Contest of innovAtionN [\[news\]](https://www.view.sdu.edu.cn/info/1003/144886.htm)
+- _2020.12_ First Prize of the 14th International Contest of innovAtionN [\[news\]](https://www.view.sdu.edu.cn/info/1003/144886.htm) -->
 
-<!-- # 📖 Educations
-
-
-- _2019.06 - 2022.04 (now)_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- _2015.09 - 2019.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-
-<!-- # 💬 Invited Talks
-
-- _2021.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- _2021.03_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. \| [\[video\]](https://github.com/) -->
+- Honorary Bachelor's Degree, Shandong University, _2022_
+- Outstanding Student of Universities in Shandong Province, Department of Education of Shandong Province, _2022_
+- Outstanding Student Leader of Universities in Shandong Province, Department of Education of Shandong Province, _2021_
+- Shandong University President's Scholarship (35 winners university-wide), Shandong University[\[news\]](https://mp.weixin.qq.com/s/kg9RxqXPaxizK5F9qemySg), _2021_
+- National Scholarship for Undergraduate Students, Ministry of Education of the PRC, Two Consecutive Years (_2020, 2021_)
+- Top 10 Class Monitors of Shandong University (10 winners university-wide), Shandong University, _2020_
+- First-Class Academic Scholarship, Shandong University, Three Consecutive Years (_2019, 2020, 2021_)
+- Merit Student (Sanhao Student) of Shandong University, Three Consecutive Years (_2019, 2020, 2021_)
+- Outstanding Communist Youth League Member, Shandong University, Three Consecutive Years (_2019, 2020, 2021_)
+- The 14th iCAN International Contest of Innovation and Entrepreneurship, National First Prize, Innovation and Entrepreneurship Education Steering Committee of the Ministry of Education[\[news\]](https://www.view.sdu.edu.cn/info/1003/144886.htm), _2020_
+- The 11th Chinese Mathematics Competitions (CMC), National First Prize, Chinese Mathematical Society, _2019_
 
 # 📫 Contact
 
