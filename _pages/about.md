@@ -151,8 +151,8 @@ What's more, I am collaborating with [Prof. Kun Zhang](https://sese.sjtu.edu.cn/
 
 # 📑 Academic Services
 
-- Conference Reviewer: ICLR'26, ICLR'25, IJCAI'25
-- Journal Reviewer: TKDD'24
+- Conference Reviewer: ACMMM'26, KDD'26, ICLR'26, ICLR'25, IJCAI'25, KDD'25
+- Journal Reviewer: TKDE'25, TITS'25, TKDD'24
 
 # 🎖 Honors and Awards
 
