@@ -181,9 +181,4 @@ Location: Room 441, Building 1, No. 800 Dongchuan Road, Minhang District, Shangh
 
 Email: jianpingzhou0927@gmail.com
 
-<div>
-
-<script data-goatcounter="https://jeremychou28.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
-</div>
 <!-- <a href='https://clustrmaps.com/site/1bxrr'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=600&t=tt&d=0M8kPkKxBLYWYMx2sN62-gal633opUGy56vm6VlWAz8&co=2d78ad&ct=ffffff'/></a> -->
