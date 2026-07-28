@@ -164,9 +164,13 @@ a:hover {
   .visitor-stats__map {
     display: flex;
     justify-content: center;
+    width: 500px;
     max-width: 100%;
-    min-height: 125px;
+    height: 250px;
+    margin: 0 auto;
     overflow: hidden;
+    position: relative;
+    line-height: 0;
     pointer-events: none;
   }
 
