@@ -192,7 +192,7 @@ Email: jianpingzhou0927@gmail.com
   <span class="visitor-stats__raw" id="busuanzi_site_uv" aria-hidden="true"></span>
 
   <div class="visitor-stats__map" aria-label="Visitor location map">
-    <script id="_waujp8">var _wau = _wau || []; _wau.push(["map", "jz28site26", "jp8", "900", "338", "natural", "star-blue"]);</script>
+    <script id="_waujp8">var _wau = _wau || []; _wau.push(["map", "jz28site26", "jp8", "500", "250", "natural", "default-blue"]);</script>
     <script async src="https://waust.at/m.js"></script>
   </div>
 
