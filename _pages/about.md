@@ -181,4 +181,16 @@ Location: Room 441, Building 1, No. 800 Dongchuan Road, Minhang District, Shangh
 
 Email: jianpingzhou0927@gmail.com
 
-<!-- <a href='https://clustrmaps.com/site/1bxrr'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=600&t=tt&d=0M8kPkKxBLYWYMx2sN62-gal633opUGy56vm6VlWAz8&co=2d78ad&ct=ffffff'/></a> -->
+<div class="visitor-stats">
+  <script defer src="https://cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js"></script>
+
+  <div class="visitor-stats__numbers" aria-label="Website visit counters">
+    <span>Total visits: <strong id="busuanzi_site_pv">Loading...</strong></span>
+    <span>Total visitors: <strong id="busuanzi_site_uv">Loading...</strong></span>
+  </div>
+
+  <div class="visitor-stats__map" aria-label="Visitor location map">
+    <script id="_waujp8">var _wau = _wau || []; _wau.push(["map", "jz28site26", "jp8", "500", "250", "natural", "star-blue"]);</script>
+    <script async src="https://waust.at/m.js"></script>
+  </div>
+</div>

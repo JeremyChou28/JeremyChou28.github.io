@@ -137,3 +137,37 @@ h1:before,
 a:hover {
   font-weight: bolder;
 }
+
+.visitor-stats {
+  margin-top: 1.25rem;
+  text-align: center;
+
+  .visitor-stats__numbers {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem 1rem;
+    margin-bottom: 0.85rem;
+    color: #5c5c5c;
+    font-size: $type-size-6;
+
+    strong {
+      color: #1565c0;
+      font-weight: bold;
+    }
+  }
+
+  .visitor-stats__map {
+    display: flex;
+    justify-content: center;
+    max-width: 100%;
+    min-height: 125px;
+    overflow: hidden;
+  }
+
+  iframe,
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+}
