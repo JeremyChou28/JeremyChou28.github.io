@@ -181,16 +181,69 @@ Location: Room 441, Building 1, No. 800 Dongchuan Road, Minhang District, Shangh
 
 Email: jianpingzhou0927@gmail.com
 
-<div class="visitor-stats">
+<div class="visitor-stats" data-pageview-offset="4000" data-visitor-offset="1010">
   <script defer src="https://cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js"></script>
 
   <div class="visitor-stats__numbers" aria-label="Website visit counters">
-    <span>Total visits: <strong id="busuanzi_site_pv">Loading...</strong></span>
-    <span>Total visitors: <strong id="busuanzi_site_uv">Loading...</strong></span>
+    <span>Total visits: <strong id="visitor_stats_pv">Loading...</strong></span>
+    <span>Total visitors: <strong id="visitor_stats_uv">Loading...</strong></span>
   </div>
+  <span class="visitor-stats__raw" id="busuanzi_site_pv" aria-hidden="true"></span>
+  <span class="visitor-stats__raw" id="busuanzi_site_uv" aria-hidden="true"></span>
 
   <div class="visitor-stats__map" aria-label="Visitor location map">
-    <script id="_waujp8">var _wau = _wau || []; _wau.push(["map", "jz28site26", "jp8", "500", "250", "natural", "star-blue"]);</script>
+    <script id="_waujp8">var _wau = _wau || []; _wau.push(["map", "jz28site26", "jp8", "900", "338", "natural", "star-blue"]);</script>
     <script async src="https://waust.at/m.js"></script>
   </div>
+
+  <script>
+    (function () {
+      var container = document.querySelector(".visitor-stats");
+      if (!container) return;
+
+      var counters = [
+        {
+          rawId: "busuanzi_site_pv",
+          outputId: "visitor_stats_pv",
+          offset: Number(container.getAttribute("data-pageview-offset")) || 0
+        },
+        {
+          rawId: "busuanzi_site_uv",
+          outputId: "visitor_stats_uv",
+          offset: Number(container.getAttribute("data-visitor-offset")) || 0
+        }
+      ];
+
+      function parseCount(text) {
+        var digits = String(text || "").replace(/[^\d]/g, "");
+        return digits ? Number(digits) : null;
+      }
+
+      function renderCount(value) {
+        return value.toLocaleString("en-US");
+      }
+
+      function updateCounters() {
+        counters.forEach(function (counter) {
+          var raw = document.getElementById(counter.rawId);
+          var output = document.getElementById(counter.outputId);
+          if (!raw || !output) return;
+
+          var rawValue = parseCount(raw.textContent);
+          if (rawValue === null) return;
+
+          output.textContent = renderCount(rawValue + counter.offset);
+        });
+      }
+
+      var observer = new MutationObserver(updateCounters);
+      counters.forEach(function (counter) {
+        var raw = document.getElementById(counter.rawId);
+        if (raw) observer.observe(raw, { childList: true, characterData: true, subtree: true });
+      });
+
+      updateCounters();
+      window.addEventListener("load", updateCounters);
+    })();
+  </script>
 </div>
