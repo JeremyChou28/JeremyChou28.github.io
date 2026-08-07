@@ -41,6 +41,7 @@ What's more, I am collaborating with [Prof. Kun Zhang](https://sese.sjtu.edu.cn/
 - <span class='paper-badge'>KDD 2026</span> **OceanVerse: Evaluable 4D Ocean Element Reconstruction Dataset under Realistic Sparsity**<br>
   _Bin Lu, Jingjing Shen, Ze Zhao, <u><b>Jianping Zhou</b></u>, Haonan Qi, Luyu Han, Xiaoying Gan, Meng Jin, Lei Zhou, Luoyi Fu, Xinbing Wang, Chenghu Zhou_<br>
   _ACM SIGKDD International Conference on Knowledge Discovery and Data Mining_, 2026 (CCF-A)<br>
+  <span class='paper-asset'><a href="https://dl.acm.org/doi/10.1145/3770855.3817534">Page</a></span> <span class='paper-asset'><a href="https://github.com/jingwei-sjtu/OceanVerse">Code</a></span>
 
 - <span class='paper-badge'>TKDE 2026</span> **TRACK: Temporal Decoupled Kriging for Inductive Spatio-temporal Graph**<br>
   _<u><b>Jianping Zhou</b></u>, Weida Wang, Bin Lu, Guanjie Zheng, Lei Bai, Xinbing Wang, Chenghu Zhou_<br>
