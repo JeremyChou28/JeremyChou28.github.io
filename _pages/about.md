@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m currently a fourth year Ph.D. candidate at [DIRC Research Center](https://dirc.sjtu.edu.cn/#/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I have the honor to be supervised by [Prof. Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/) and [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/). 
+I’m currently a fourth year Ph.D. candidate at [DIRC Research Center](https://dirc.sjtu.edu.cn/#/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I have the honor to be supervised by [Prof. Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/) and [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/). I am currently working closely with Postdoctoral researcher [Bin Lu](https://robinlu1209.github.io/).
 
 I received my bachelor's degree from Chongxin College at [Shandong University](https://www.sdu.edu.cn) in 2022, supervised by [Prof. Hongchao Zhou](https://faculty.sdu.edu.cn/zhouhongchao/zh_CN/) and [Prof. Hailiang Xiong](https://faculty.sdu.edu.cn/xionghailiang).
 
@@ -37,6 +37,10 @@ What's more, I am collaborating with [Prof. Kun Zhang](https://sese.sjtu.edu.cn/
 - _2022.02_: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📝 Publications
+
+- <span class='paper-badge'>CIKM 2026</span> **Quality Heterogeneity Matters: Adaptive Harmonization for Multi-Sensor Time Series Forecasting**<br>
+  _<u><b>Jianping Zhou</b></u>, Bin Lu, Haoyang Yue, Yimian Hu, Gu Tang, Ze Zhao, Zijun Di, Xinbing Wang_<br>
+  _ACM International Conference on Information and Knowledge Management_, 2026 (CCF-B)<br>
 
 - <span class='paper-badge'>KDD 2026</span> **OceanVerse: Evaluable 4D Ocean Element Reconstruction Dataset under Realistic Sparsity**<br>
   _Bin Lu, Jingjing Shen, Ze Zhao, <u><b>Jianping Zhou</b></u>, Haonan Qi, Luyu Han, Xiaoying Gan, Meng Jin, Lei Zhou, Luoyi Fu, Xinbing Wang, Chenghu Zhou_<br>
