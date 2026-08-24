@@ -67,22 +67,22 @@ What's more, I am collaborating with [Prof. Kun Zhang](https://sese.sjtu.edu.cn/
   _<u><b>Jianping Zhou</b></u>, Bin Lu, Zhanyu Liu, Siyu Pan, Xuejun Feng, Hua Wei,
   Guanjie Zheng, Xinbing Wang, Chenghu Zhou_<br>
   _ACM Transactions on Knowledge Discovery from Data_, 2025 (CCF-B)<br>
-  <span class='paper-asset'><a href="https://arxiv.org/abs/2406.03511">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2406.03511">PDF</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/MagiNet">Code</a></span>
+  <span class='paper-asset'><a href="https://dl.acm.org/doi/10.1145/3743141">Page</a></span> <span class='paper-asset'><a href="https://dl.acm.org/doi/epdf/10.1145/3743141">PDF</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/MagiNet">Code</a></span>
 
 - <span class='paper-badge'>CIKM 2024</span> **MTSCI: A Conditional Diffusion Model for Multivariate Time Series Consistent Imputation**<br>
   _<u><b>Jianping Zhou</b></u>, Junhao Li, Guanjie Zheng, Xinbing Wang, Chenghu Zhou_<br>
   _ACM International Conference on Information and Knowledge Management_, 2024 (CCF-B)<br>
-  <span class='paper-asset'><a href="https://arxiv.org/abs/2408.05740">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2408.05740">PDF</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/MTSCI">Code</a></span>
+  <span class='paper-asset'><a href="https://dl.acm.org/doi/10.1145/3627673.3679532">Page</a></span> <span class='paper-asset'><a href="https://dl.acm.org/doi/epdf/10.1145/3627673.3679532">PDF</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/MTSCI">Code</a></span>
 
 - <span class='paper-badge'>SData 2024</span> **Sm-Nd Isotope Data Compilation from Geoscientific Literature Using an Automated Tabular Extraction Method**<br>
   _Zhixin Guo, Tao Wang, Chaoyang Wang, <u><b>Jianping Zhou</b></u>, Guanjie Zheng, Xinbing Wang, Chenghu Zhou_<br>
   _Scientific data_, 2024 (Nature 子刊)<br>
-  <span class='paper-asset'><a href="https://arxiv.org/abs/2403.18306">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2403.18306">PDF</a></span> <span class='paper-asset'><a href="https://github.com/sjtugzx/tabularDataCollection">Code</a></span>
+  <span class='paper-asset'><a href="https://www.nature.com/articles/s41597-024-04229-5">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2403.18306">PDF</a></span> <span class='paper-asset'><a href="https://github.com/sjtugzx/tabularDataCollection">Code</a></span>
 
 - <span class='paper-badge'>ICASSP 2024</span> **Towards Controlled Table-to-Text Generation with Scientific Reasoning**<br>
   _Zhixin Guo, <u><b>Jianping Zhou</b></u>, Jiexing Qi, Mingxuan Yan, Ziwei He, Guanjie Zheng, Zhouhan Lin, Xinbing Wang, Chenghu Zhou_<br>
   _IEEE International Conference on Acoustics, Speech and Signal Processing_, 2024 (CCF-B)<br>
-  <span class='paper-asset'><a href="https://arxiv.org/abs/2312.05402">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2312.05402.pdf">PDF</a></span> <span class='paper-asset'><a href="https://github.com/sjtugzx/CTRLSciTab">Code</a></span>
+  <span class='paper-asset'><a href="https://ieeexplore.ieee.org/document/10446479/">Page</a></span> <span class='paper-asset'><a href="https://github.com/sjtugzx/CTRLSciTab">Code</a></span>
 
 - <span class='paper-badge'>ICPR 2024</span> **SWave: Improving Vocoder Efficiency by Straightening the Waveform Generation Path**<br>
   _Pan Liu, <u><b>Jianping Zhou</b></u>, Xiaohua Tian, Zhouhan Lin_<br>
@@ -92,7 +92,7 @@ What's more, I am collaborating with [Prof. Kun Zhang](https://sese.sjtu.edu.cn/
 - <span class='paper-badge'>TASLP 2024</span> **Adapting Knowledge for Few-shot Table-to-Text Generation**<br>
   _Zhixin Guo, Minyxuan Yan, Jiexing Qi, <u><b>Jianping Zhou</b></u>, Ziwei He, Guanjie Zheng, Xinbing Wang, Chenghu Zhou_<br>
   _IEEE/ACM Transactions on Audio, Speech and Language Processing_, 2024 (CCF-B)<br>
-  <span class='paper-asset'><a href="https://arxiv.org/abs/2302.12468">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2302.12468.pdf">PDF</a></span> <span class='paper-asset'><a href="https://github.com/sjtugzx/akg">Code</a></span>
+  <span class='paper-asset'><a href="https://ieeexplore.ieee.org/document/10602781">Page</a></span> <span class='paper-asset'><a href="https://github.com/sjtugzx/akg">Code</a></span>
 
 - <span class='paper-prebadge'>arXiv 2024</span> **GeoViz: A Multi-View Visualization Platform for Spatio-temporal Knowledge Graph**<br>
   _<u><b>Jianping Zhou</b></u>, Junhao Li, Guanjie Zheng, Yunqiang Zhu, Xinbing Wang, Chenghu Zhou_<br>
